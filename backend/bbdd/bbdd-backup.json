@@ -1,0 +1,14 @@
+{
+    "data": [
+        { "id": 1, "name": "Hamburguesas", "type": "carnes", "ignore": true },
+        { "id": 2, "name": "Arroz con pollo", "type": "arroz", "ignore": true },
+        { "id": 3, "name": "Ensalada", "type": "verduras", "ignore": true },
+        { "id": 4, "name": "Arroz blanco", "type": "arroz", "ignore": true },
+        { "id": 5, "name": "Chuletas de Aguja", "type": "carnes", "ignore": true },
+        { "id": 6, "name": "Albóndigas", "type": "carnes", "ignore": true },
+        { "id": 7, "name": "Arroz tres delicias", "type": "arroz", "ignore": true },
+        { "id": 8, "name": "Macarrones", "type": "pasta", "ignore": true },
+        { "id": 9, "name": "Sopa", "type": "pasta", "ignore": true },
+        { "id": 10, "name": "solomillo", "type": "carnes", "ignore": true }
+    ]
+}
