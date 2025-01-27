@@ -2,3 +2,47 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+input, pre {
+    @apply border-2;
+    @apply border-blue-800;
+    @apply rounded-2xl;
+    @apply px-5;
+    @apply py-3;
+    @apply block;
+    @apply font-bold;
+    @apply m-1;
+    @apply overflow-auto;
+}
+
+.title {
+    @apply px-3;
+    @apply py-2;
+    @apply font-bold;
+    @apply m-1;
+    @apply text-2xl;
+}
+
+.subtitle {
+    @apply px-3;
+    @apply py-2;
+    @apply font-bold;
+    @apply m-1;
+}
+
+button {
+    @apply border-2;
+    @apply border-blue-800;
+    @apply rounded-2xl;
+    @apply px-3;
+    @apply py-2;
+    @apply block;
+    @apply m-1;
+}
+
+.separator {
+    @apply w-full;
+    @apply border-2;
+    @apply border-b-blue-800;
+    @apply m-3;
+}
